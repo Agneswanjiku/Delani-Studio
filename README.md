@@ -26,8 +26,8 @@ CSS :To style the webpage.
 Java script :To make the web page interactive
 
 ## SETUP INSTRUCTINS
-Use this link below to have a look on my project: 
-https://agneswanjiku.github.io/Akan/
+Use this link below to have a look on my project:
+https://agneswanjiku.github.io/Delani-Studio/
 ## BDD 
 
 I laid the structure using html,<br>
