@@ -1,6 +1,6 @@
 ## project name
 Delani STUDIO
-This is a project that details what Delani Studio does and their works. Additionally, it allows users to send messages and receive email confirmations n receival of the messages by the company.
+This is a project that details what Delani Studio does and their works. Additionally, it allows users to send messages and receive email confirmations in receival of their messages by the company.
 
 
 ## AUTHOR
