@@ -33,6 +33,7 @@ https://agneswanjiku.github.io/Delani-Studio/
 I laid the structure using html,<br>
 Styled using css<br>
 Downloaded bootstrap  and Java to make the page interactive<br>
+I also used some jquery function.<br>
 
 ## bugs
 i had issue with the script function but  i manage them.
