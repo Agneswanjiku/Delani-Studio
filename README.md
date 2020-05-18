@@ -36,7 +36,7 @@ Downloaded bootstrap  and Java to make the page interactive<br>
 I also used some jquery function.<br>
 
 ## bugs
-i had issue with the script function but  i manage them.
+i had issue with the script file  but  i was able to  manage it .
 
 
 
